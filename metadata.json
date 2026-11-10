@@ -1,0 +1,6 @@
+{
+  "name": "Cashflow Umroh Pro - Sistem Keuangan Travel Umroh",
+  "description": "Sistem pencatatan arus kas (cashflow) travel umroh real-time multi-user dengan pelacakan DP jamaah, pelunasan, ekspor Excel, dan chat privat antar PIC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
